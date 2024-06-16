@@ -11,3 +11,6 @@ Example:
 ```
 gunicorn app:app & python3 bot.py
 ```
+
+## use any app.py
+before using change app 2.py to this app.py
